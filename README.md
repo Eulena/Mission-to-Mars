@@ -36,7 +36,7 @@ Step 2 - In Visual Studio Code run the "app.py" python file, right-click and sel
 127.0.0.1 - - [06/Jun/2019 21:28:24] "GET / HTTP/1.1" 200 -
 ```
 
-Step 3 - The application is running successfully. Now, to view the result, Google browser should open automatically upon clicking on ```http://127.0.0.1:5000```. Now, press the __Scrape New Data__ button, you have to wait a few seconds while the application gathers the data before presenting it to you. The webpage should look similar to below __SCREENSHOTS__ after it is done.
+Step 3 - The application is running successfully. Now, to view the result, Google browser should open automatically upon clicking on ```http://127.0.0.1:5000```. Now, press the __Scrape New Data__ button, you have to wait a few seconds while the application gathers the data before it is finally presented to you. The webpage should look similar to below __SCREENSHOTS__ after it is done.
 
 ![final_app_part1.png](Images/Img_1.PNG)
 ![final_app_part2.png](Images/Img_2.PNG)
