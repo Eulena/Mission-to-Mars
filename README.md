@@ -21,6 +21,8 @@ Follow these instructions in sequence to launch the application.
 ```bash
 $ mongod
 ```
+RESULT: Per the screenshot below, "mars_db" has populated in MongoDB.
+
 ![final_app_part4.png](Images/mars_db.PNG)
 
 2. In Visual Studio Code run the "app.py" python file, right-click and select "Run Python File in Terminal".
@@ -34,7 +36,7 @@ $ mongod
 127.0.0.1 - - [06/Jun/2019 21:28:24] "GET / HTTP/1.1" 200 -
 ```
 
-3. Congrats! The application is running successfully. Now, to view the result, Google browser should open automatically upon clicking on _http://127.0.0.1:5000_. Now, press the __Scrape New Data__ button, you have to wait a few seconds while the application gathers the data before presenting it to you. The webpage should look similar to this after it is done processing...
+3. Congrats! The application is running successfully. Now, to view the result, Google browser should open automatically upon clicking on _http://127.0.0.1:5000_. Now, press the __Scrape New Data__ button, you have to wait a few seconds while the application gathers the data before presenting it to you. The webpage should look similar to below __screenshot__ after it is done.
 
 ![final_app_part1.png](Images/Img_1.PNG)
 ![final_app_part2.png](Images/Img_2.PNG)
