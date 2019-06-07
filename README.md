@@ -1,6 +1,6 @@
 # Mission-to-Mars Web Scraping
 
-In this homework, BeautifulSoup to scrape data from various web pages that provides Mars latest news, featured images, weather, facts, current tweets, and pulling the data of the four different hemispheres. Then, I stored the data in MongoDB and then loaded it into an HTML file using a Flask that connects with Python. Finally, I formatted the HTML using Bootstrap and configured the "app.py" file to ensure that by clicking the "Scrape" button on the web page, it would re-scrape and eventually render the most up-to-date information on Mars.
+In this homework, BeautifulSoup was utilized to scrape data from various web pages that provides Mars latest news, featured images, weather, facts, current tweets, and pulling the data of the four different hemispheres. Then, I stored the data in MongoDB and then loaded it into an HTML file using a Flask that connects with Python. Finally, I formatted the HTML using Bootstrap and configured the "app.py" file to ensure that by clicking the "Scrape" button on the web page, it would re-scrape and eventually render the most up-to-date information on Mars.
 
 ## Prerequisites
 
