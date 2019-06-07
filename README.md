@@ -21,6 +21,8 @@ Follow these instructions in sequence to launch the application.
 ```bash
 $ mongod
 ```
+![final_app_part4.png](Images/mars_db.PNG)
+
 2. In Visual Studio Code run the "app.py" python file, right-click and select "Run Python File in Terminal".
 
 ```
@@ -36,5 +38,5 @@ $ mongod
 
 ![final_app_part1.png](Images/Img_1.PNG)
 ![final_app_part2.png](Images/Img_2.PNG)
-![final_app_part1.png](Images/Img_3.PNG)
+![final_app_part3.png](Images/Img_3.PNG)
 
