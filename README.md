@@ -17,15 +17,15 @@ In this homework, BeautifulSoup was utilized to scrape data from various web pag
 
 Follow these instructions in sequence to launch the application.
 
-1. Open your bash application and start up the mongodb server by typing in and executing the following code:
+Step 1 - Open your bash application and start up the mongodb server by typing in and executing the following code:
 ```bash
 $ mongod
 ```
-RESULT: Per the screenshot below, "mars_db" has populated in MongoDB.
+NOTE: Result as per the screenshot below, "mars_db" will be in MongoDB only after Step 2, which is after "app.py" python file has ran.
 
 ![final_app_part4.png](Images/mars_db.PNG)
 
-2. In Visual Studio Code run the "app.py" python file, right-click and select "Run Python File in Terminal".
+Step 2 - In Visual Studio Code run the "app.py" python file, right-click and select "Run Python File in Terminal". Below statements should appear, as shown below:
 
 ```
  * Debug mode: on
@@ -36,7 +36,7 @@ RESULT: Per the screenshot below, "mars_db" has populated in MongoDB.
 127.0.0.1 - - [06/Jun/2019 21:28:24] "GET / HTTP/1.1" 200 -
 ```
 
-3. Congrats! The application is running successfully. Now, to view the result, Google browser should open automatically upon clicking on _http://127.0.0.1:5000_. Now, press the __Scrape New Data__ button, you have to wait a few seconds while the application gathers the data before presenting it to you. The webpage should look similar to below __SCREENSHOTS__ after it is done.
+Step 3 - The application is running successfully. Now, to view the result, Google browser should open automatically upon clicking on __http://127.0.0.1:5000__. Now, press the __Scrape New Data__ button, you have to wait a few seconds while the application gathers the data before presenting it to you. The webpage should look similar to below __SCREENSHOTS__ after it is done.
 
 ![final_app_part1.png](Images/Img_1.PNG)
 ![final_app_part2.png](Images/Img_2.PNG)
