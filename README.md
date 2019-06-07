@@ -24,12 +24,13 @@ $ mongod
 2. In Visual Studio Code run the "app.py" python file, right-click and select "Run Python File in Terminal".
 
 ```
- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Debug mode: on
  * Restarting with stat
  * Debugger is active!
- * Debugger PIN: ***-***-***
-127.0.0.1 - - [01/Jan/2000 01:01:01] "GET / HTTP/1.1" 200 -
+ * Debugger PIN: 333-445-847
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Jun/2019 21:28:24] "GET / HTTP/1.1" 200 -
 ```
 
-3. Congrats! The application is running successfully. Now, to view the result, Google browser should open automatically upon clicking on https://127.0.0.1:5000. Now, press the __Scrape that Data Up__ button and wait a few seconds while the application does its thing and gathers the data before presenting it to you. The webpage should look similar to this after it is done processing...
+3. Congrats! The application is running successfully. Now, to view the result, Google browser should open automatically upon clicking on _http://127.0.0.1:5000_. Now, press the __Scrape New Data__ button, you have to wait a few seconds while the application gathers the data before presenting it to you. The webpage should look similar to this after it is done processing...
 
