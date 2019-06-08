@@ -26,6 +26,7 @@ $ mongod
 NOTE: Result as per the screenshot below, __"mars_db"__ will be in MongoDB only after Step 2, which is after "app.py" python file has ran.
 
 ![final_app_part4.png](Images/mars_db.PNG)
+![final_app_part4.png](Images/mars_db_2.PNG)
 
 Step 2 - In Visual Studio Code run the "app.py" python file, right-click and select "Run Python File in Terminal". Below statements should appear, as shown below:
 
